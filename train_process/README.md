@@ -93,6 +93,33 @@ For each growth rate record, we extract weather statistics from the **preceding 
 - 10-fold
 - StandardScaler applied to features (Though not nessary for DT, but useful for general use).
 
+### Evaluation Metrics
+
+The model is evaluated using three complementary metrics: **R²**, **RMSE**, and **MAE**.
+
+- **R² (Coefficient of Determination)**
+
+  - Measures how well the independent variables explain the variance in the target variable.
+  - Provides an overall sense of goodness-of-fit: values closer to 1 indicate better predictive power.
+  - Useful for comparing different models trained on the same dataset.
+
+- **RMSE (Root Mean Squared Error)**
+
+  - Penalizes larger errors more heavily because of the squaring operation.
+  - Sensitive to outliers, which makes it a good choice when large deviations are especially undesirable.
+  - Interpretable in the same units as the target variable (kg DM/ha/day).
+
+- **MAE (Mean Absolute Error)**
+  - Represents the average absolute difference between predictions and actual values.
+  - Less sensitive to outliers than RMSE, providing a more robust measure of typical model error.
+  - Easy to interpret as the expected error magnitude in real-world terms.
+
+✅ Using these three metrics together gives a balanced evaluation:
+
+- **R²** indicates explanatory power.
+- **RMSE** highlights sensitivity to large errors.
+- **MAE** shows the average error magnitude under normal conditions.
+
 ### Model Training
 
 - Used **GridSearchCV** (10-fold) to tune hyperparameters:
@@ -171,7 +198,7 @@ Top predictors:
 
 ---
 
-# Baseline Model Tuning — Closing Notes
+# Baseline Model Tuning
 
 ## 1) Summary of the Two Rounds
 
