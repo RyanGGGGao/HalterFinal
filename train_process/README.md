@@ -32,7 +32,7 @@ No unreasonable values detected.
 <details>
 <summary>Visualization</summary>
 <p align="center">
-  <img src="images/Code_Generated_Image.png" alt="outliers" width="480">
+  <img src="../images/Code_Generated_Image.png" alt="outliers" width="480">
 </p>
 
 - **Boxplot:** Outliers clearly visible above 120.
@@ -168,13 +168,13 @@ Top predictors:
 <details>
 <summary>Visualizations</summary>
 <p align="center">
-  <img src="images/DT_plot1.png" alt="Actual vs Predicted Scatter Plot" width="480">
+  <img src="../images/DT_plot1.png" alt="Actual vs Predicted Scatter Plot" width="480">
 </p>
 
 - **Actual vs Predicted Scatter Plot**
 
 <p align="center">
-  <img src="images/DT_plot2.png" alt="Actual vs Predicted Scatter Plot" width="480">
+  <img src="../images/DT_plot2.png" alt="Actual vs Predicted Scatter Plot" width="480">
 </p>
 
 - **Feature:** Importance Bar Chart.
@@ -338,13 +338,13 @@ Further micro‑tuning of the single tree is unlikely to change outcomes materia
 
 <summary>Visualizations</summary>
 <p align="center">
-  <img src="images/RF_plot1.png" alt="Actual vs Predicted Scatter Plot" width="480">
+  <img src="../images/RF_plot1.png" alt="Actual vs Predicted Scatter Plot" width="480">
 </p>
 
 - **Actual vs Predicted Scatter Plot (RF):** By comparing it with the Decision Tree’s actual vs. predicted scatter plot, it’s clear that the Random Forest delivers better predictive performance (higher R², lower RMSE).
 
 <p align="center">
-  <img src="images/DT_plot1.png" alt="Actual vs Predicted Scatter Plot" width="480">
+  <img src="../images/DT_plot1.png" alt="Actual vs Predicted Scatter Plot" width="480">
 </p>
 
 - **Actual vs Predicted Scatter Plot (Decesion Tree)**
@@ -431,13 +431,13 @@ Then I **merged** these with the existing 24h features on `farm_id` + `growth_ra
 
 <summary>Visualizations</summary>
 <p align="center">
-  <img src="images/FeatureEng_plot1.png" alt="Actual vs Predicted Scatter Plot" width="480">
+  <img src="../images/FeatureEng_plot1.png" alt="Actual vs Predicted Scatter Plot" width="480">
 </p>
 
 - **Actual vs Predicted Scatter Plot**
 
 <p align="center">
-  <img src="images/FeatureEng_plot2.png" alt="Actual vs Predicted Scatter Plot" width="480">
+  <img src="../images/FeatureEng_plot2.png" alt="Actual vs Predicted Scatter Plot" width="480">
 </p>
 
 - **Feature:** Importance Bar Chart.
