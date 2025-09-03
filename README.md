@@ -133,12 +133,6 @@ uvicorn app.main:app --reload
       "air_temperature_celsius": 12.5,
       "global_horizontal_irradiance": 400.0,
       "precipitation_rate": 0.2
-    }，
-    {
-      "period_start_utc": "YYYY-MM-DD HH:MM:SS",
-      "air_temperature_celsius": 12.7,
-      "global_horizontal_irradiance": 420.0,
-      "precipitation_rate": 0.2
     }
   ]
 }
