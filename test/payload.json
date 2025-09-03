@@ -1,0 +1,4038 @@
+{
+  "farm_id": "3a2cce8f-e7b2-4f35-95a0-99c4554cd028",
+  "prediction_timestamp_utc": "2025-09-03 11:00:00",
+  "weather_history": [
+    {
+      "period_start_utc": "2025-08-20 11:30:00",
+      "air_temperature_celsius": 17.38,
+      "global_horizontal_irradiance": 808.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 12:00:00",
+      "air_temperature_celsius": 17.84,
+      "global_horizontal_irradiance": 779.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 12:30:00",
+      "air_temperature_celsius": 17.53,
+      "global_horizontal_irradiance": 813.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 13:00:00",
+      "air_temperature_celsius": 17.82,
+      "global_horizontal_irradiance": 771.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 13:30:00",
+      "air_temperature_celsius": 18.86,
+      "global_horizontal_irradiance": 779.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 14:00:00",
+      "air_temperature_celsius": 16.88,
+      "global_horizontal_irradiance": 742.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 14:30:00",
+      "air_temperature_celsius": 17.61,
+      "global_horizontal_irradiance": 674.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 15:00:00",
+      "air_temperature_celsius": 17.7,
+      "global_horizontal_irradiance": 679.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 15:30:00",
+      "air_temperature_celsius": 17.5,
+      "global_horizontal_irradiance": 614.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 16:00:00",
+      "air_temperature_celsius": 17.08,
+      "global_horizontal_irradiance": 559.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 16:30:00",
+      "air_temperature_celsius": 17.05,
+      "global_horizontal_irradiance": 490.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 17:00:00",
+      "air_temperature_celsius": 16.28,
+      "global_horizontal_irradiance": 359.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 17:30:00",
+      "air_temperature_celsius": 16.37,
+      "global_horizontal_irradiance": 323.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 18:00:00",
+      "air_temperature_celsius": 15.87,
+      "global_horizontal_irradiance": 206.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 18:30:00",
+      "air_temperature_celsius": 14.87,
+      "global_horizontal_irradiance": 123.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 19:00:00",
+      "air_temperature_celsius": 13.86,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 19:30:00",
+      "air_temperature_celsius": 13.62,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 20:00:00",
+      "air_temperature_celsius": 12.39,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 20:30:00",
+      "air_temperature_celsius": 11.84,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 21:00:00",
+      "air_temperature_celsius": 12.35,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 21:30:00",
+      "air_temperature_celsius": 10.41,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 22:00:00",
+      "air_temperature_celsius": 11.34,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 22:30:00",
+      "air_temperature_celsius": 9.34,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 23:00:00",
+      "air_temperature_celsius": 9.79,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-20 23:30:00",
+      "air_temperature_celsius": 9.18,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 00:00:00",
+      "air_temperature_celsius": 7.99,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 00:30:00",
+      "air_temperature_celsius": 7.51,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 01:00:00",
+      "air_temperature_celsius": 7.37,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 01:30:00",
+      "air_temperature_celsius": 7.92,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 02:00:00",
+      "air_temperature_celsius": 8.22,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 02:30:00",
+      "air_temperature_celsius": 8.28,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 03:00:00",
+      "air_temperature_celsius": 7.5,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 03:30:00",
+      "air_temperature_celsius": 8.42,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 04:00:00",
+      "air_temperature_celsius": 8.73,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 04:30:00",
+      "air_temperature_celsius": 10.23,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 05:00:00",
+      "air_temperature_celsius": 9.82,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 05:30:00",
+      "air_temperature_celsius": 10.15,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 06:00:00",
+      "air_temperature_celsius": 10.66,
+      "global_horizontal_irradiance": 0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 06:30:00",
+      "air_temperature_celsius": 10.79,
+      "global_horizontal_irradiance": 142.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 07:00:00",
+      "air_temperature_celsius": 11.32,
+      "global_horizontal_irradiance": 178.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 07:30:00",
+      "air_temperature_celsius": 11.95,
+      "global_horizontal_irradiance": 322.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 08:00:00",
+      "air_temperature_celsius": 13.58,
+      "global_horizontal_irradiance": 368.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 08:30:00",
+      "air_temperature_celsius": 13.52,
+      "global_horizontal_irradiance": 430.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 09:00:00",
+      "air_temperature_celsius": 13.72,
+      "global_horizontal_irradiance": 552.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 09:30:00",
+      "air_temperature_celsius": 14.54,
+      "global_horizontal_irradiance": 558.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 10:00:00",
+      "air_temperature_celsius": 15.09,
+      "global_horizontal_irradiance": 610.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 10:30:00",
+      "air_temperature_celsius": 16.27,
+      "global_horizontal_irradiance": 697.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 11:00:00",
+      "air_temperature_celsius": 16.58,
+      "global_horizontal_irradiance": 747.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 11:30:00",
+      "air_temperature_celsius": 17.08,
+      "global_horizontal_irradiance": 787.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 12:00:00",
+      "air_temperature_celsius": 17.4,
+      "global_horizontal_irradiance": 764.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 12:30:00",
+      "air_temperature_celsius": 17.84,
+      "global_horizontal_irradiance": 758.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 13:00:00",
+      "air_temperature_celsius": 17.78,
+      "global_horizontal_irradiance": 806.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 13:30:00",
+      "air_temperature_celsius": 17.45,
+      "global_horizontal_irradiance": 820.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 14:00:00",
+      "air_temperature_celsius": 18.02,
+      "global_horizontal_irradiance": 779.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 14:30:00",
+      "air_temperature_celsius": 18.48,
+      "global_horizontal_irradiance": 744.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 15:00:00",
+      "air_temperature_celsius": 18.14,
+      "global_horizontal_irradiance": 699.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 15:30:00",
+      "air_temperature_celsius": 17.93,
+      "global_horizontal_irradiance": 647.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 16:00:00",
+      "air_temperature_celsius": 17.05,
+      "global_horizontal_irradiance": 516.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 16:30:00",
+      "air_temperature_celsius": 16.8,
+      "global_horizontal_irradiance": 438.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 17:00:00",
+      "air_temperature_celsius": 16.28,
+      "global_horizontal_irradiance": 366.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 17:30:00",
+      "air_temperature_celsius": 15.74,
+      "global_horizontal_irradiance": 245.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 18:00:00",
+      "air_temperature_celsius": 15.74,
+      "global_horizontal_irradiance": 192.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 18:30:00",
+      "air_temperature_celsius": 14.98,
+      "global_horizontal_irradiance": 109.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 19:00:00",
+      "air_temperature_celsius": 14.04,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 19:30:00",
+      "air_temperature_celsius": 14.32,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 20:00:00",
+      "air_temperature_celsius": 13.32,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 20:30:00",
+      "air_temperature_celsius": 11.71,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 21:00:00",
+      "air_temperature_celsius": 11.45,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 21:30:00",
+      "air_temperature_celsius": 10.69,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 22:00:00",
+      "air_temperature_celsius": 10.49,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 22:30:00",
+      "air_temperature_celsius": 9.87,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 23:00:00",
+      "air_temperature_celsius": 10.01,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-21 23:30:00",
+      "air_temperature_celsius": 9.92,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 3.61
+    },
+    {
+      "period_start_utc": "2025-08-22 00:00:00",
+      "air_temperature_celsius": 7.89,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 00:30:00",
+      "air_temperature_celsius": 8.66,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 01:00:00",
+      "air_temperature_celsius": 8.49,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 01:30:00",
+      "air_temperature_celsius": 8.73,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 02:00:00",
+      "air_temperature_celsius": 7.72,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 02:30:00",
+      "air_temperature_celsius": 8.74,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 03:00:00",
+      "air_temperature_celsius": 7.93,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 03:30:00",
+      "air_temperature_celsius": 7.02,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 04:00:00",
+      "air_temperature_celsius": 8.71,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 04:30:00",
+      "air_temperature_celsius": 8.08,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 05:00:00",
+      "air_temperature_celsius": 10.12,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 05:30:00",
+      "air_temperature_celsius": 10.3,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 06:00:00",
+      "air_temperature_celsius": 10.19,
+      "global_horizontal_irradiance": 0,
+      "precipitation_rate": 2.37
+    },
+    {
+      "period_start_utc": "2025-08-22 06:30:00",
+      "air_temperature_celsius": 10.23,
+      "global_horizontal_irradiance": 98.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 07:00:00",
+      "air_temperature_celsius": 11.13,
+      "global_horizontal_irradiance": 228.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 07:30:00",
+      "air_temperature_celsius": 11.93,
+      "global_horizontal_irradiance": 263.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 08:00:00",
+      "air_temperature_celsius": 13.78,
+      "global_horizontal_irradiance": 420.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 08:30:00",
+      "air_temperature_celsius": 12.77,
+      "global_horizontal_irradiance": 489.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 09:00:00",
+      "air_temperature_celsius": 14.49,
+      "global_horizontal_irradiance": 562.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 09:30:00",
+      "air_temperature_celsius": 15.31,
+      "global_horizontal_irradiance": 555.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 10:00:00",
+      "air_temperature_celsius": 15.41,
+      "global_horizontal_irradiance": 672.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 10:30:00",
+      "air_temperature_celsius": 15.74,
+      "global_horizontal_irradiance": 738.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 11:00:00",
+      "air_temperature_celsius": 16.01,
+      "global_horizontal_irradiance": 741.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 11:30:00",
+      "air_temperature_celsius": 16.98,
+      "global_horizontal_irradiance": 816.75,
+      "precipitation_rate": 2.25
+    },
+    {
+      "period_start_utc": "2025-08-22 12:00:00",
+      "air_temperature_celsius": 16.09,
+      "global_horizontal_irradiance": 783.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 12:30:00",
+      "air_temperature_celsius": 17.56,
+      "global_horizontal_irradiance": 813.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 13:00:00",
+      "air_temperature_celsius": 16.46,
+      "global_horizontal_irradiance": 842.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 13:30:00",
+      "air_temperature_celsius": 18.04,
+      "global_horizontal_irradiance": 734.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 14:00:00",
+      "air_temperature_celsius": 17.89,
+      "global_horizontal_irradiance": 768.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 14:30:00",
+      "air_temperature_celsius": 17.27,
+      "global_horizontal_irradiance": 679.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 15:00:00",
+      "air_temperature_celsius": 18.02,
+      "global_horizontal_irradiance": 642.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 15:30:00",
+      "air_temperature_celsius": 17.21,
+      "global_horizontal_irradiance": 548.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 16:00:00",
+      "air_temperature_celsius": 17.78,
+      "global_horizontal_irradiance": 513.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 16:30:00",
+      "air_temperature_celsius": 17.57,
+      "global_horizontal_irradiance": 481.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 17:00:00",
+      "air_temperature_celsius": 16.35,
+      "global_horizontal_irradiance": 355.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 17:30:00",
+      "air_temperature_celsius": 15.65,
+      "global_horizontal_irradiance": 246.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 18:00:00",
+      "air_temperature_celsius": 14.86,
+      "global_horizontal_irradiance": 207.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 18:30:00",
+      "air_temperature_celsius": 14.59,
+      "global_horizontal_irradiance": 78.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 19:00:00",
+      "air_temperature_celsius": 14.6,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 19:30:00",
+      "air_temperature_celsius": 13.76,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 20:00:00",
+      "air_temperature_celsius": 13.05,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 20:30:00",
+      "air_temperature_celsius": 12.02,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 21:00:00",
+      "air_temperature_celsius": 11.42,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 21:30:00",
+      "air_temperature_celsius": 10.33,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 22:00:00",
+      "air_temperature_celsius": 9.71,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 22:30:00",
+      "air_temperature_celsius": 10.38,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 23:00:00",
+      "air_temperature_celsius": 9.0,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-22 23:30:00",
+      "air_temperature_celsius": 8.16,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 00:00:00",
+      "air_temperature_celsius": 7.97,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 00:30:00",
+      "air_temperature_celsius": 8.98,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 01:00:00",
+      "air_temperature_celsius": 8.35,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 01:30:00",
+      "air_temperature_celsius": 7.48,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 02:00:00",
+      "air_temperature_celsius": 7.94,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 02:30:00",
+      "air_temperature_celsius": 8.49,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 03:00:00",
+      "air_temperature_celsius": 7.96,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 03:30:00",
+      "air_temperature_celsius": 8.16,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 4.88
+    },
+    {
+      "period_start_utc": "2025-08-23 04:00:00",
+      "air_temperature_celsius": 8.93,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 04:30:00",
+      "air_temperature_celsius": 8.8,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 05:00:00",
+      "air_temperature_celsius": 9.7,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 05:30:00",
+      "air_temperature_celsius": 11.37,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 06:00:00",
+      "air_temperature_celsius": 10.09,
+      "global_horizontal_irradiance": 0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 06:30:00",
+      "air_temperature_celsius": 11.39,
+      "global_horizontal_irradiance": 112.43,
+      "precipitation_rate": 0.24
+    },
+    {
+      "period_start_utc": "2025-08-23 07:00:00",
+      "air_temperature_celsius": 12.14,
+      "global_horizontal_irradiance": 207.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 07:30:00",
+      "air_temperature_celsius": 11.46,
+      "global_horizontal_irradiance": 267.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 08:00:00",
+      "air_temperature_celsius": 13.08,
+      "global_horizontal_irradiance": 327.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 08:30:00",
+      "air_temperature_celsius": 14.13,
+      "global_horizontal_irradiance": 449.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 09:00:00",
+      "air_temperature_celsius": 14.03,
+      "global_horizontal_irradiance": 524.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 09:30:00",
+      "air_temperature_celsius": 15.04,
+      "global_horizontal_irradiance": 561.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 10:00:00",
+      "air_temperature_celsius": 14.7,
+      "global_horizontal_irradiance": 628.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 10:30:00",
+      "air_temperature_celsius": 16.41,
+      "global_horizontal_irradiance": 720.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 11:00:00",
+      "air_temperature_celsius": 16.56,
+      "global_horizontal_irradiance": 795.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 11:30:00",
+      "air_temperature_celsius": 16.53,
+      "global_horizontal_irradiance": 756.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 12:00:00",
+      "air_temperature_celsius": 17.72,
+      "global_horizontal_irradiance": 826.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 12:30:00",
+      "air_temperature_celsius": 16.74,
+      "global_horizontal_irradiance": 796.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 13:00:00",
+      "air_temperature_celsius": 17.98,
+      "global_horizontal_irradiance": 768.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 13:30:00",
+      "air_temperature_celsius": 17.11,
+      "global_horizontal_irradiance": 739.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 14:00:00",
+      "air_temperature_celsius": 17.18,
+      "global_horizontal_irradiance": 750.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 14:30:00",
+      "air_temperature_celsius": 18.0,
+      "global_horizontal_irradiance": 751.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 15:00:00",
+      "air_temperature_celsius": 17.76,
+      "global_horizontal_irradiance": 613.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 15:30:00",
+      "air_temperature_celsius": 17.24,
+      "global_horizontal_irradiance": 601.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 16:00:00",
+      "air_temperature_celsius": 17.68,
+      "global_horizontal_irradiance": 528.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 16:30:00",
+      "air_temperature_celsius": 17.28,
+      "global_horizontal_irradiance": 490.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 17:00:00",
+      "air_temperature_celsius": 16.78,
+      "global_horizontal_irradiance": 389.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 17:30:00",
+      "air_temperature_celsius": 16.34,
+      "global_horizontal_irradiance": 262.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 18:00:00",
+      "air_temperature_celsius": 15.34,
+      "global_horizontal_irradiance": 177.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 18:30:00",
+      "air_temperature_celsius": 15.36,
+      "global_horizontal_irradiance": 139.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 19:00:00",
+      "air_temperature_celsius": 13.89,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 19:30:00",
+      "air_temperature_celsius": 13.85,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 20:00:00",
+      "air_temperature_celsius": 13.12,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 20:30:00",
+      "air_temperature_celsius": 12.55,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 21:00:00",
+      "air_temperature_celsius": 11.37,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 21:30:00",
+      "air_temperature_celsius": 11.64,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 22:00:00",
+      "air_temperature_celsius": 9.82,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 22:30:00",
+      "air_temperature_celsius": 10.6,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 23:00:00",
+      "air_temperature_celsius": 9.39,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-23 23:30:00",
+      "air_temperature_celsius": 8.65,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 00:00:00",
+      "air_temperature_celsius": 8.98,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 00:30:00",
+      "air_temperature_celsius": 8.69,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 01:00:00",
+      "air_temperature_celsius": 7.86,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 01:30:00",
+      "air_temperature_celsius": 7.95,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 02:00:00",
+      "air_temperature_celsius": 8.33,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 02:30:00",
+      "air_temperature_celsius": 7.31,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 03:00:00",
+      "air_temperature_celsius": 8.08,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 03:30:00",
+      "air_temperature_celsius": 8.56,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 04:00:00",
+      "air_temperature_celsius": 8.95,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 04:30:00",
+      "air_temperature_celsius": 8.68,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 05:00:00",
+      "air_temperature_celsius": 9.4,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 05:30:00",
+      "air_temperature_celsius": 9.9,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 06:00:00",
+      "air_temperature_celsius": 10.65,
+      "global_horizontal_irradiance": 0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 06:30:00",
+      "air_temperature_celsius": 9.79,
+      "global_horizontal_irradiance": 57.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 07:00:00",
+      "air_temperature_celsius": 11.6,
+      "global_horizontal_irradiance": 172.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 07:30:00",
+      "air_temperature_celsius": 12.24,
+      "global_horizontal_irradiance": 249.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 08:00:00",
+      "air_temperature_celsius": 13.03,
+      "global_horizontal_irradiance": 356.78,
+      "precipitation_rate": 2.74
+    },
+    {
+      "period_start_utc": "2025-08-24 08:30:00",
+      "air_temperature_celsius": 13.3,
+      "global_horizontal_irradiance": 476.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 09:00:00",
+      "air_temperature_celsius": 14.33,
+      "global_horizontal_irradiance": 559.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 09:30:00",
+      "air_temperature_celsius": 14.45,
+      "global_horizontal_irradiance": 580.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 10:00:00",
+      "air_temperature_celsius": 15.8,
+      "global_horizontal_irradiance": 609.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 10:30:00",
+      "air_temperature_celsius": 15.37,
+      "global_horizontal_irradiance": 684.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 11:00:00",
+      "air_temperature_celsius": 16.07,
+      "global_horizontal_irradiance": 731.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 11:30:00",
+      "air_temperature_celsius": 17.24,
+      "global_horizontal_irradiance": 823.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 12:00:00",
+      "air_temperature_celsius": 16.44,
+      "global_horizontal_irradiance": 826.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 12:30:00",
+      "air_temperature_celsius": 17.18,
+      "global_horizontal_irradiance": 778.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 13:00:00",
+      "air_temperature_celsius": 17.71,
+      "global_horizontal_irradiance": 810.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 13:30:00",
+      "air_temperature_celsius": 17.41,
+      "global_horizontal_irradiance": 727.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 14:00:00",
+      "air_temperature_celsius": 18.58,
+      "global_horizontal_irradiance": 731.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 14:30:00",
+      "air_temperature_celsius": 19.0,
+      "global_horizontal_irradiance": 680.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 15:00:00",
+      "air_temperature_celsius": 17.37,
+      "global_horizontal_irradiance": 633.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 15:30:00",
+      "air_temperature_celsius": 17.34,
+      "global_horizontal_irradiance": 647.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 16:00:00",
+      "air_temperature_celsius": 17.57,
+      "global_horizontal_irradiance": 532.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 16:30:00",
+      "air_temperature_celsius": 16.7,
+      "global_horizontal_irradiance": 485.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 17:00:00",
+      "air_temperature_celsius": 17.15,
+      "global_horizontal_irradiance": 403.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 17:30:00",
+      "air_temperature_celsius": 16.12,
+      "global_horizontal_irradiance": 251.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 18:00:00",
+      "air_temperature_celsius": 15.22,
+      "global_horizontal_irradiance": 212.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 18:30:00",
+      "air_temperature_celsius": 15.37,
+      "global_horizontal_irradiance": 100.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 19:00:00",
+      "air_temperature_celsius": 14.05,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 19:30:00",
+      "air_temperature_celsius": 13.48,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 20:00:00",
+      "air_temperature_celsius": 13.1,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 20:30:00",
+      "air_temperature_celsius": 12.31,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 21:00:00",
+      "air_temperature_celsius": 10.9,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 21:30:00",
+      "air_temperature_celsius": 11.33,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 22:00:00",
+      "air_temperature_celsius": 9.87,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 22:30:00",
+      "air_temperature_celsius": 11.08,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 23:00:00",
+      "air_temperature_celsius": 9.81,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-24 23:30:00",
+      "air_temperature_celsius": 8.62,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 00:00:00",
+      "air_temperature_celsius": 9.05,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 00:30:00",
+      "air_temperature_celsius": 8.34,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 01:00:00",
+      "air_temperature_celsius": 7.72,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 01:30:00",
+      "air_temperature_celsius": 8.42,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 02:00:00",
+      "air_temperature_celsius": 7.34,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 02:30:00",
+      "air_temperature_celsius": 7.98,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 03:00:00",
+      "air_temperature_celsius": 7.74,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 03:30:00",
+      "air_temperature_celsius": 8.21,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 04:00:00",
+      "air_temperature_celsius": 8.53,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.77
+    },
+    {
+      "period_start_utc": "2025-08-25 04:30:00",
+      "air_temperature_celsius": 8.56,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 05:00:00",
+      "air_temperature_celsius": 9.65,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 05:30:00",
+      "air_temperature_celsius": 10.82,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 06:00:00",
+      "air_temperature_celsius": 10.37,
+      "global_horizontal_irradiance": 0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 06:30:00",
+      "air_temperature_celsius": 10.59,
+      "global_horizontal_irradiance": 100.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 07:00:00",
+      "air_temperature_celsius": 12.7,
+      "global_horizontal_irradiance": 195.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 07:30:00",
+      "air_temperature_celsius": 11.86,
+      "global_horizontal_irradiance": 327.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 08:00:00",
+      "air_temperature_celsius": 13.1,
+      "global_horizontal_irradiance": 410.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 08:30:00",
+      "air_temperature_celsius": 13.77,
+      "global_horizontal_irradiance": 450.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 09:00:00",
+      "air_temperature_celsius": 13.88,
+      "global_horizontal_irradiance": 504.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 09:30:00",
+      "air_temperature_celsius": 15.2,
+      "global_horizontal_irradiance": 604.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 10:00:00",
+      "air_temperature_celsius": 15.27,
+      "global_horizontal_irradiance": 683.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 10:30:00",
+      "air_temperature_celsius": 16.54,
+      "global_horizontal_irradiance": 670.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 11:00:00",
+      "air_temperature_celsius": 16.17,
+      "global_horizontal_irradiance": 774.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 11:30:00",
+      "air_temperature_celsius": 17.69,
+      "global_horizontal_irradiance": 763.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 12:00:00",
+      "air_temperature_celsius": 17.36,
+      "global_horizontal_irradiance": 832.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 12:30:00",
+      "air_temperature_celsius": 17.23,
+      "global_horizontal_irradiance": 834.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 13:00:00",
+      "air_temperature_celsius": 18.53,
+      "global_horizontal_irradiance": 776.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 13:30:00",
+      "air_temperature_celsius": 18.05,
+      "global_horizontal_irradiance": 750.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 14:00:00",
+      "air_temperature_celsius": 20.2,
+      "global_horizontal_irradiance": 793.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 14:30:00",
+      "air_temperature_celsius": 18.54,
+      "global_horizontal_irradiance": 750.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 15:00:00",
+      "air_temperature_celsius": 18.54,
+      "global_horizontal_irradiance": 656.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 15:30:00",
+      "air_temperature_celsius": 17.4,
+      "global_horizontal_irradiance": 644.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 16:00:00",
+      "air_temperature_celsius": 16.67,
+      "global_horizontal_irradiance": 549.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 16:30:00",
+      "air_temperature_celsius": 17.61,
+      "global_horizontal_irradiance": 476.45,
+      "precipitation_rate": 1.67
+    },
+    {
+      "period_start_utc": "2025-08-25 17:00:00",
+      "air_temperature_celsius": 16.58,
+      "global_horizontal_irradiance": 328.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 17:30:00",
+      "air_temperature_celsius": 15.26,
+      "global_horizontal_irradiance": 324.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 18:00:00",
+      "air_temperature_celsius": 15.49,
+      "global_horizontal_irradiance": 170.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 18:30:00",
+      "air_temperature_celsius": 14.58,
+      "global_horizontal_irradiance": 68.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 19:00:00",
+      "air_temperature_celsius": 14.16,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 19:30:00",
+      "air_temperature_celsius": 14.74,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 20:00:00",
+      "air_temperature_celsius": 12.92,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 20:30:00",
+      "air_temperature_celsius": 11.8,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 21:00:00",
+      "air_temperature_celsius": 12.44,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 21:30:00",
+      "air_temperature_celsius": 10.33,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 22:00:00",
+      "air_temperature_celsius": 10.04,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 22:30:00",
+      "air_temperature_celsius": 10.06,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 23:00:00",
+      "air_temperature_celsius": 9.83,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-25 23:30:00",
+      "air_temperature_celsius": 8.27,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 00:00:00",
+      "air_temperature_celsius": 8.64,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 00:30:00",
+      "air_temperature_celsius": 8.38,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 4.87
+    },
+    {
+      "period_start_utc": "2025-08-26 01:00:00",
+      "air_temperature_celsius": 9.02,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 01:30:00",
+      "air_temperature_celsius": 8.81,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 02:00:00",
+      "air_temperature_celsius": 7.73,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 02:30:00",
+      "air_temperature_celsius": 8.07,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 03:00:00",
+      "air_temperature_celsius": 8.52,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 03:30:00",
+      "air_temperature_celsius": 8.6,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 04:00:00",
+      "air_temperature_celsius": 8.74,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 04:30:00",
+      "air_temperature_celsius": 9.18,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 05:00:00",
+      "air_temperature_celsius": 9.14,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 05:30:00",
+      "air_temperature_celsius": 9.01,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 06:00:00",
+      "air_temperature_celsius": 10.46,
+      "global_horizontal_irradiance": 8.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 06:30:00",
+      "air_temperature_celsius": 11.41,
+      "global_horizontal_irradiance": 52.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 07:00:00",
+      "air_temperature_celsius": 11.46,
+      "global_horizontal_irradiance": 226.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 07:30:00",
+      "air_temperature_celsius": 11.69,
+      "global_horizontal_irradiance": 282.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 08:00:00",
+      "air_temperature_celsius": 12.12,
+      "global_horizontal_irradiance": 351.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 08:30:00",
+      "air_temperature_celsius": 13.44,
+      "global_horizontal_irradiance": 462.45,
+      "precipitation_rate": 4.94
+    },
+    {
+      "period_start_utc": "2025-08-26 09:00:00",
+      "air_temperature_celsius": 14.25,
+      "global_horizontal_irradiance": 535.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 09:30:00",
+      "air_temperature_celsius": 13.75,
+      "global_horizontal_irradiance": 580.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 10:00:00",
+      "air_temperature_celsius": 15.39,
+      "global_horizontal_irradiance": 644.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 10:30:00",
+      "air_temperature_celsius": 16.13,
+      "global_horizontal_irradiance": 699.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 11:00:00",
+      "air_temperature_celsius": 16.09,
+      "global_horizontal_irradiance": 778.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 11:30:00",
+      "air_temperature_celsius": 16.97,
+      "global_horizontal_irradiance": 808.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 12:00:00",
+      "air_temperature_celsius": 16.92,
+      "global_horizontal_irradiance": 753.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 12:30:00",
+      "air_temperature_celsius": 17.61,
+      "global_horizontal_irradiance": 811.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 13:00:00",
+      "air_temperature_celsius": 18.19,
+      "global_horizontal_irradiance": 757.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 13:30:00",
+      "air_temperature_celsius": 18.17,
+      "global_horizontal_irradiance": 773.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 14:00:00",
+      "air_temperature_celsius": 18.86,
+      "global_horizontal_irradiance": 700.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 14:30:00",
+      "air_temperature_celsius": 18.0,
+      "global_horizontal_irradiance": 673.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 15:00:00",
+      "air_temperature_celsius": 18.35,
+      "global_horizontal_irradiance": 633.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 15:30:00",
+      "air_temperature_celsius": 17.23,
+      "global_horizontal_irradiance": 608.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 16:00:00",
+      "air_temperature_celsius": 17.02,
+      "global_horizontal_irradiance": 573.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 16:30:00",
+      "air_temperature_celsius": 18.28,
+      "global_horizontal_irradiance": 443.45,
+      "precipitation_rate": 1.67
+    },
+    {
+      "period_start_utc": "2025-08-26 17:00:00",
+      "air_temperature_celsius": 16.98,
+      "global_horizontal_irradiance": 410.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 17:30:00",
+      "air_temperature_celsius": 16.46,
+      "global_horizontal_irradiance": 330.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 18:00:00",
+      "air_temperature_celsius": 14.89,
+      "global_horizontal_irradiance": 222.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 18:30:00",
+      "air_temperature_celsius": 14.1,
+      "global_horizontal_irradiance": 111.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 19:00:00",
+      "air_temperature_celsius": 14.64,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 4.89
+    },
+    {
+      "period_start_utc": "2025-08-26 19:30:00",
+      "air_temperature_celsius": 14.69,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 20:00:00",
+      "air_temperature_celsius": 12.9,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 20:30:00",
+      "air_temperature_celsius": 12.98,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 21:00:00",
+      "air_temperature_celsius": 11.88,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 21:30:00",
+      "air_temperature_celsius": 11.49,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 22:00:00",
+      "air_temperature_celsius": 11.31,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 22:30:00",
+      "air_temperature_celsius": 9.56,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 23:00:00",
+      "air_temperature_celsius": 8.53,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-26 23:30:00",
+      "air_temperature_celsius": 9.06,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 00:00:00",
+      "air_temperature_celsius": 9.04,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 00:30:00",
+      "air_temperature_celsius": 8.67,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 01:00:00",
+      "air_temperature_celsius": 7.44,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 01:30:00",
+      "air_temperature_celsius": 7.45,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 02:00:00",
+      "air_temperature_celsius": 8.61,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 02:30:00",
+      "air_temperature_celsius": 8.64,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 03:00:00",
+      "air_temperature_celsius": 8.06,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 03:30:00",
+      "air_temperature_celsius": 8.06,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 04:00:00",
+      "air_temperature_celsius": 7.81,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 04:30:00",
+      "air_temperature_celsius": 9.1,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 05:00:00",
+      "air_temperature_celsius": 10.06,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 05:30:00",
+      "air_temperature_celsius": 10.43,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 1.82
+    },
+    {
+      "period_start_utc": "2025-08-27 06:00:00",
+      "air_temperature_celsius": 11.36,
+      "global_horizontal_irradiance": 10.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 06:30:00",
+      "air_temperature_celsius": 10.53,
+      "global_horizontal_irradiance": 110.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 07:00:00",
+      "air_temperature_celsius": 12.14,
+      "global_horizontal_irradiance": 168.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 07:30:00",
+      "air_temperature_celsius": 11.72,
+      "global_horizontal_irradiance": 251.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 08:00:00",
+      "air_temperature_celsius": 13.43,
+      "global_horizontal_irradiance": 324.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 08:30:00",
+      "air_temperature_celsius": 14.09,
+      "global_horizontal_irradiance": 405.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 09:00:00",
+      "air_temperature_celsius": 14.31,
+      "global_horizontal_irradiance": 519.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 09:30:00",
+      "air_temperature_celsius": 14.85,
+      "global_horizontal_irradiance": 553.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 10:00:00",
+      "air_temperature_celsius": 16.28,
+      "global_horizontal_irradiance": 619.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 10:30:00",
+      "air_temperature_celsius": 16.45,
+      "global_horizontal_irradiance": 677.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 11:00:00",
+      "air_temperature_celsius": 16.51,
+      "global_horizontal_irradiance": 771.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 11:30:00",
+      "air_temperature_celsius": 17.47,
+      "global_horizontal_irradiance": 797.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 12:00:00",
+      "air_temperature_celsius": 17.16,
+      "global_horizontal_irradiance": 755.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 12:30:00",
+      "air_temperature_celsius": 17.07,
+      "global_horizontal_irradiance": 839.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 13:00:00",
+      "air_temperature_celsius": 17.46,
+      "global_horizontal_irradiance": 768.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 13:30:00",
+      "air_temperature_celsius": 18.06,
+      "global_horizontal_irradiance": 794.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 14:00:00",
+      "air_temperature_celsius": 18.09,
+      "global_horizontal_irradiance": 791.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 14:30:00",
+      "air_temperature_celsius": 18.29,
+      "global_horizontal_irradiance": 727.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 15:00:00",
+      "air_temperature_celsius": 18.93,
+      "global_horizontal_irradiance": 692.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 15:30:00",
+      "air_temperature_celsius": 17.71,
+      "global_horizontal_irradiance": 553.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 16:00:00",
+      "air_temperature_celsius": 18.11,
+      "global_horizontal_irradiance": 511.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 16:30:00",
+      "air_temperature_celsius": 16.64,
+      "global_horizontal_irradiance": 422.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 17:00:00",
+      "air_temperature_celsius": 17.05,
+      "global_horizontal_irradiance": 416.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 17:30:00",
+      "air_temperature_celsius": 16.46,
+      "global_horizontal_irradiance": 280.68,
+      "precipitation_rate": 0.18
+    },
+    {
+      "period_start_utc": "2025-08-27 18:00:00",
+      "air_temperature_celsius": 15.76,
+      "global_horizontal_irradiance": 187.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 18:30:00",
+      "air_temperature_celsius": 14.69,
+      "global_horizontal_irradiance": 55.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 19:00:00",
+      "air_temperature_celsius": 14.91,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 19:30:00",
+      "air_temperature_celsius": 13.84,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 20:00:00",
+      "air_temperature_celsius": 12.48,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 20:30:00",
+      "air_temperature_celsius": 12.71,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 21:00:00",
+      "air_temperature_celsius": 11.5,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 21:30:00",
+      "air_temperature_celsius": 10.09,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 22:00:00",
+      "air_temperature_celsius": 10.05,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 22:30:00",
+      "air_temperature_celsius": 11.29,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 23:00:00",
+      "air_temperature_celsius": 9.73,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-27 23:30:00",
+      "air_temperature_celsius": 9.37,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 00:00:00",
+      "air_temperature_celsius": 9.89,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 00:30:00",
+      "air_temperature_celsius": 8.53,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 01:00:00",
+      "air_temperature_celsius": 8.2,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 01:30:00",
+      "air_temperature_celsius": 7.83,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 02:00:00",
+      "air_temperature_celsius": 7.44,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 02:30:00",
+      "air_temperature_celsius": 8.88,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 03:00:00",
+      "air_temperature_celsius": 7.72,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 03:30:00",
+      "air_temperature_celsius": 8.97,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 04:00:00",
+      "air_temperature_celsius": 9.14,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 04:30:00",
+      "air_temperature_celsius": 9.17,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 05:00:00",
+      "air_temperature_celsius": 9.12,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 05:30:00",
+      "air_temperature_celsius": 9.68,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 06:00:00",
+      "air_temperature_celsius": 10.88,
+      "global_horizontal_irradiance": 0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 06:30:00",
+      "air_temperature_celsius": 10.4,
+      "global_horizontal_irradiance": 71.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 07:00:00",
+      "air_temperature_celsius": 11.29,
+      "global_horizontal_irradiance": 157.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 07:30:00",
+      "air_temperature_celsius": 12.78,
+      "global_horizontal_irradiance": 313.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 08:00:00",
+      "air_temperature_celsius": 13.12,
+      "global_horizontal_irradiance": 331.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 08:30:00",
+      "air_temperature_celsius": 13.04,
+      "global_horizontal_irradiance": 435.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 09:00:00",
+      "air_temperature_celsius": 14.75,
+      "global_horizontal_irradiance": 535.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 09:30:00",
+      "air_temperature_celsius": 14.94,
+      "global_horizontal_irradiance": 619.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 10:00:00",
+      "air_temperature_celsius": 15.56,
+      "global_horizontal_irradiance": 647.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 10:30:00",
+      "air_temperature_celsius": 16.28,
+      "global_horizontal_irradiance": 693.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 11:00:00",
+      "air_temperature_celsius": 17.13,
+      "global_horizontal_irradiance": 719.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 11:30:00",
+      "air_temperature_celsius": 17.4,
+      "global_horizontal_irradiance": 825.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 12:00:00",
+      "air_temperature_celsius": 18.54,
+      "global_horizontal_irradiance": 798.17,
+      "precipitation_rate": 3.06
+    },
+    {
+      "period_start_utc": "2025-08-28 12:30:00",
+      "air_temperature_celsius": 16.82,
+      "global_horizontal_irradiance": 758.0,
+      "precipitation_rate": 4.43
+    },
+    {
+      "period_start_utc": "2025-08-28 13:00:00",
+      "air_temperature_celsius": 17.96,
+      "global_horizontal_irradiance": 830.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 13:30:00",
+      "air_temperature_celsius": 18.38,
+      "global_horizontal_irradiance": 774.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 14:00:00",
+      "air_temperature_celsius": 18.13,
+      "global_horizontal_irradiance": 797.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 14:30:00",
+      "air_temperature_celsius": 18.31,
+      "global_horizontal_irradiance": 735.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 15:00:00",
+      "air_temperature_celsius": 16.66,
+      "global_horizontal_irradiance": 641.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 15:30:00",
+      "air_temperature_celsius": 17.31,
+      "global_horizontal_irradiance": 623.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 16:00:00",
+      "air_temperature_celsius": 17.53,
+      "global_horizontal_irradiance": 557.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 16:30:00",
+      "air_temperature_celsius": 17.39,
+      "global_horizontal_irradiance": 442.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 17:00:00",
+      "air_temperature_celsius": 17.01,
+      "global_horizontal_irradiance": 383.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 17:30:00",
+      "air_temperature_celsius": 16.22,
+      "global_horizontal_irradiance": 252.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 18:00:00",
+      "air_temperature_celsius": 15.34,
+      "global_horizontal_irradiance": 208.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 18:30:00",
+      "air_temperature_celsius": 14.81,
+      "global_horizontal_irradiance": 69.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 19:00:00",
+      "air_temperature_celsius": 15.1,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 19:30:00",
+      "air_temperature_celsius": 13.53,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 20:00:00",
+      "air_temperature_celsius": 12.34,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 20:30:00",
+      "air_temperature_celsius": 12.19,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 21:00:00",
+      "air_temperature_celsius": 11.35,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 1.55
+    },
+    {
+      "period_start_utc": "2025-08-28 21:30:00",
+      "air_temperature_celsius": 11.06,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 22:00:00",
+      "air_temperature_celsius": 10.3,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 22:30:00",
+      "air_temperature_celsius": 9.35,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 23:00:00",
+      "air_temperature_celsius": 9.03,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-28 23:30:00",
+      "air_temperature_celsius": 9.42,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 00:00:00",
+      "air_temperature_celsius": 8.26,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 00:30:00",
+      "air_temperature_celsius": 8.32,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 01:00:00",
+      "air_temperature_celsius": 8.09,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 01:30:00",
+      "air_temperature_celsius": 8.98,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 02:00:00",
+      "air_temperature_celsius": 7.8,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 02:30:00",
+      "air_temperature_celsius": 7.18,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 03:00:00",
+      "air_temperature_celsius": 8.46,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 03:30:00",
+      "air_temperature_celsius": 8.65,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 04:00:00",
+      "air_temperature_celsius": 8.6,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 04:30:00",
+      "air_temperature_celsius": 8.95,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 05:00:00",
+      "air_temperature_celsius": 9.69,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 05:30:00",
+      "air_temperature_celsius": 9.98,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 06:00:00",
+      "air_temperature_celsius": 10.95,
+      "global_horizontal_irradiance": 0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 06:30:00",
+      "air_temperature_celsius": 11.58,
+      "global_horizontal_irradiance": 69.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 07:00:00",
+      "air_temperature_celsius": 12.08,
+      "global_horizontal_irradiance": 188.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 07:30:00",
+      "air_temperature_celsius": 13.08,
+      "global_horizontal_irradiance": 272.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 08:00:00",
+      "air_temperature_celsius": 12.95,
+      "global_horizontal_irradiance": 410.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 08:30:00",
+      "air_temperature_celsius": 14.73,
+      "global_horizontal_irradiance": 460.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 09:00:00",
+      "air_temperature_celsius": 14.17,
+      "global_horizontal_irradiance": 490.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 09:30:00",
+      "air_temperature_celsius": 14.97,
+      "global_horizontal_irradiance": 552.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 10:00:00",
+      "air_temperature_celsius": 15.87,
+      "global_horizontal_irradiance": 692.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 10:30:00",
+      "air_temperature_celsius": 15.45,
+      "global_horizontal_irradiance": 674.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 11:00:00",
+      "air_temperature_celsius": 16.0,
+      "global_horizontal_irradiance": 710.01,
+      "precipitation_rate": 3.08
+    },
+    {
+      "period_start_utc": "2025-08-29 11:30:00",
+      "air_temperature_celsius": 17.09,
+      "global_horizontal_irradiance": 761.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 12:00:00",
+      "air_temperature_celsius": 17.67,
+      "global_horizontal_irradiance": 801.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 12:30:00",
+      "air_temperature_celsius": 18.21,
+      "global_horizontal_irradiance": 787.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 13:00:00",
+      "air_temperature_celsius": 18.32,
+      "global_horizontal_irradiance": 796.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 13:30:00",
+      "air_temperature_celsius": 18.63,
+      "global_horizontal_irradiance": 809.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 14:00:00",
+      "air_temperature_celsius": 18.5,
+      "global_horizontal_irradiance": 740.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 14:30:00",
+      "air_temperature_celsius": 18.47,
+      "global_horizontal_irradiance": 718.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 15:00:00",
+      "air_temperature_celsius": 17.21,
+      "global_horizontal_irradiance": 705.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 15:30:00",
+      "air_temperature_celsius": 17.54,
+      "global_horizontal_irradiance": 576.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 16:00:00",
+      "air_temperature_celsius": 17.35,
+      "global_horizontal_irradiance": 560.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 16:30:00",
+      "air_temperature_celsius": 17.02,
+      "global_horizontal_irradiance": 484.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 17:00:00",
+      "air_temperature_celsius": 17.17,
+      "global_horizontal_irradiance": 346.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 17:30:00",
+      "air_temperature_celsius": 15.63,
+      "global_horizontal_irradiance": 299.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 18:00:00",
+      "air_temperature_celsius": 16.25,
+      "global_horizontal_irradiance": 149.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 18:30:00",
+      "air_temperature_celsius": 14.8,
+      "global_horizontal_irradiance": 71.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 19:00:00",
+      "air_temperature_celsius": 14.03,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 19:30:00",
+      "air_temperature_celsius": 14.04,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 20:00:00",
+      "air_temperature_celsius": 12.89,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 20:30:00",
+      "air_temperature_celsius": 12.54,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 21:00:00",
+      "air_temperature_celsius": 12.22,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 21:30:00",
+      "air_temperature_celsius": 12.1,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 22:00:00",
+      "air_temperature_celsius": 9.5,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 22:30:00",
+      "air_temperature_celsius": 10.16,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 23:00:00",
+      "air_temperature_celsius": 9.97,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-29 23:30:00",
+      "air_temperature_celsius": 8.57,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 00:00:00",
+      "air_temperature_celsius": 8.13,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 2.41
+    },
+    {
+      "period_start_utc": "2025-08-30 00:30:00",
+      "air_temperature_celsius": 7.7,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 01:00:00",
+      "air_temperature_celsius": 7.82,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.57
+    },
+    {
+      "period_start_utc": "2025-08-30 01:30:00",
+      "air_temperature_celsius": 9.03,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 02:00:00",
+      "air_temperature_celsius": 8.2,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 02:30:00",
+      "air_temperature_celsius": 7.54,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 03:00:00",
+      "air_temperature_celsius": 9.17,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 03:30:00",
+      "air_temperature_celsius": 8.12,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 04:00:00",
+      "air_temperature_celsius": 8.14,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 04:30:00",
+      "air_temperature_celsius": 8.63,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 05:00:00",
+      "air_temperature_celsius": 9.12,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 05:30:00",
+      "air_temperature_celsius": 10.09,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 06:00:00",
+      "air_temperature_celsius": 10.87,
+      "global_horizontal_irradiance": 0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 06:30:00",
+      "air_temperature_celsius": 11.27,
+      "global_horizontal_irradiance": 51.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 07:00:00",
+      "air_temperature_celsius": 12.76,
+      "global_horizontal_irradiance": 176.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 07:30:00",
+      "air_temperature_celsius": 13.39,
+      "global_horizontal_irradiance": 254.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 08:00:00",
+      "air_temperature_celsius": 13.14,
+      "global_horizontal_irradiance": 342.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 08:30:00",
+      "air_temperature_celsius": 13.3,
+      "global_horizontal_irradiance": 426.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 09:00:00",
+      "air_temperature_celsius": 13.56,
+      "global_horizontal_irradiance": 508.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 09:30:00",
+      "air_temperature_celsius": 14.46,
+      "global_horizontal_irradiance": 590.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 10:00:00",
+      "air_temperature_celsius": 15.28,
+      "global_horizontal_irradiance": 704.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 10:30:00",
+      "air_temperature_celsius": 16.37,
+      "global_horizontal_irradiance": 703.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 11:00:00",
+      "air_temperature_celsius": 16.53,
+      "global_horizontal_irradiance": 756.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 11:30:00",
+      "air_temperature_celsius": 16.42,
+      "global_horizontal_irradiance": 787.75,
+      "precipitation_rate": 3.4
+    },
+    {
+      "period_start_utc": "2025-08-30 12:00:00",
+      "air_temperature_celsius": 17.69,
+      "global_horizontal_irradiance": 798.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 12:30:00",
+      "air_temperature_celsius": 17.49,
+      "global_horizontal_irradiance": 813.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 13:00:00",
+      "air_temperature_celsius": 16.5,
+      "global_horizontal_irradiance": 817.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 13:30:00",
+      "air_temperature_celsius": 17.32,
+      "global_horizontal_irradiance": 754.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 14:00:00",
+      "air_temperature_celsius": 17.9,
+      "global_horizontal_irradiance": 778.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 14:30:00",
+      "air_temperature_celsius": 17.01,
+      "global_horizontal_irradiance": 701.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 15:00:00",
+      "air_temperature_celsius": 18.58,
+      "global_horizontal_irradiance": 636.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 15:30:00",
+      "air_temperature_celsius": 17.79,
+      "global_horizontal_irradiance": 643.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 16:00:00",
+      "air_temperature_celsius": 15.98,
+      "global_horizontal_irradiance": 507.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 16:30:00",
+      "air_temperature_celsius": 17.78,
+      "global_horizontal_irradiance": 474.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 17:00:00",
+      "air_temperature_celsius": 16.91,
+      "global_horizontal_irradiance": 384.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 17:30:00",
+      "air_temperature_celsius": 15.96,
+      "global_horizontal_irradiance": 292.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 18:00:00",
+      "air_temperature_celsius": 14.91,
+      "global_horizontal_irradiance": 203.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 18:30:00",
+      "air_temperature_celsius": 14.94,
+      "global_horizontal_irradiance": 62.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 19:00:00",
+      "air_temperature_celsius": 14.13,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 19:30:00",
+      "air_temperature_celsius": 13.11,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 20:00:00",
+      "air_temperature_celsius": 12.76,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 20:30:00",
+      "air_temperature_celsius": 12.4,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 21:00:00",
+      "air_temperature_celsius": 12.09,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 21:30:00",
+      "air_temperature_celsius": 11.77,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 22:00:00",
+      "air_temperature_celsius": 10.92,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 22:30:00",
+      "air_temperature_celsius": 9.82,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 23:00:00",
+      "air_temperature_celsius": 9.37,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-30 23:30:00",
+      "air_temperature_celsius": 9.17,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 00:00:00",
+      "air_temperature_celsius": 8.63,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 00:30:00",
+      "air_temperature_celsius": 8.25,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 01:00:00",
+      "air_temperature_celsius": 7.95,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 01:30:00",
+      "air_temperature_celsius": 8.15,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 02:00:00",
+      "air_temperature_celsius": 7.32,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 2.75
+    },
+    {
+      "period_start_utc": "2025-08-31 02:30:00",
+      "air_temperature_celsius": 8.31,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 03:00:00",
+      "air_temperature_celsius": 8.4,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 03:30:00",
+      "air_temperature_celsius": 8.41,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 04:00:00",
+      "air_temperature_celsius": 8.47,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 04:30:00",
+      "air_temperature_celsius": 8.97,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 05:00:00",
+      "air_temperature_celsius": 9.91,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 05:30:00",
+      "air_temperature_celsius": 10.44,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 06:00:00",
+      "air_temperature_celsius": 11.02,
+      "global_horizontal_irradiance": 0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 06:30:00",
+      "air_temperature_celsius": 10.62,
+      "global_horizontal_irradiance": 49.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 07:00:00",
+      "air_temperature_celsius": 11.86,
+      "global_horizontal_irradiance": 189.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 07:30:00",
+      "air_temperature_celsius": 12.63,
+      "global_horizontal_irradiance": 267.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 08:00:00",
+      "air_temperature_celsius": 11.81,
+      "global_horizontal_irradiance": 344.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 08:30:00",
+      "air_temperature_celsius": 13.08,
+      "global_horizontal_irradiance": 427.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 09:00:00",
+      "air_temperature_celsius": 13.7,
+      "global_horizontal_irradiance": 480.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 09:30:00",
+      "air_temperature_celsius": 14.35,
+      "global_horizontal_irradiance": 562.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 10:00:00",
+      "air_temperature_celsius": 14.51,
+      "global_horizontal_irradiance": 658.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 10:30:00",
+      "air_temperature_celsius": 15.68,
+      "global_horizontal_irradiance": 730.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 11:00:00",
+      "air_temperature_celsius": 16.98,
+      "global_horizontal_irradiance": 713.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 11:30:00",
+      "air_temperature_celsius": 16.94,
+      "global_horizontal_irradiance": 769.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 12:00:00",
+      "air_temperature_celsius": 16.15,
+      "global_horizontal_irradiance": 755.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 12:30:00",
+      "air_temperature_celsius": 17.59,
+      "global_horizontal_irradiance": 760.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 13:00:00",
+      "air_temperature_celsius": 18.56,
+      "global_horizontal_irradiance": 762.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 13:30:00",
+      "air_temperature_celsius": 18.48,
+      "global_horizontal_irradiance": 730.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 14:00:00",
+      "air_temperature_celsius": 19.16,
+      "global_horizontal_irradiance": 795.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 14:30:00",
+      "air_temperature_celsius": 18.1,
+      "global_horizontal_irradiance": 753.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 15:00:00",
+      "air_temperature_celsius": 17.26,
+      "global_horizontal_irradiance": 619.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 15:30:00",
+      "air_temperature_celsius": 17.89,
+      "global_horizontal_irradiance": 586.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 16:00:00",
+      "air_temperature_celsius": 17.11,
+      "global_horizontal_irradiance": 554.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 16:30:00",
+      "air_temperature_celsius": 16.73,
+      "global_horizontal_irradiance": 440.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 17:00:00",
+      "air_temperature_celsius": 17.14,
+      "global_horizontal_irradiance": 355.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 17:30:00",
+      "air_temperature_celsius": 16.46,
+      "global_horizontal_irradiance": 328.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 18:00:00",
+      "air_temperature_celsius": 15.58,
+      "global_horizontal_irradiance": 229.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 18:30:00",
+      "air_temperature_celsius": 14.48,
+      "global_horizontal_irradiance": 120.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 19:00:00",
+      "air_temperature_celsius": 14.45,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 3.7
+    },
+    {
+      "period_start_utc": "2025-08-31 19:30:00",
+      "air_temperature_celsius": 13.38,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 20:00:00",
+      "air_temperature_celsius": 13.36,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 20:30:00",
+      "air_temperature_celsius": 11.64,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 21:00:00",
+      "air_temperature_celsius": 12.12,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 21:30:00",
+      "air_temperature_celsius": 10.65,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 1.3
+    },
+    {
+      "period_start_utc": "2025-08-31 22:00:00",
+      "air_temperature_celsius": 11.43,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 22:30:00",
+      "air_temperature_celsius": 9.1,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 23:00:00",
+      "air_temperature_celsius": 9.56,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-08-31 23:30:00",
+      "air_temperature_celsius": 9.4,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 00:00:00",
+      "air_temperature_celsius": 8.6,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 00:30:00",
+      "air_temperature_celsius": 8.39,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 01:00:00",
+      "air_temperature_celsius": 8.04,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 01:30:00",
+      "air_temperature_celsius": 8.69,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 02:00:00",
+      "air_temperature_celsius": 7.67,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 02:30:00",
+      "air_temperature_celsius": 8.13,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 03:00:00",
+      "air_temperature_celsius": 8.39,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 03:30:00",
+      "air_temperature_celsius": 8.31,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 04:00:00",
+      "air_temperature_celsius": 8.66,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 04:30:00",
+      "air_temperature_celsius": 9.29,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 05:00:00",
+      "air_temperature_celsius": 9.2,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 05:30:00",
+      "air_temperature_celsius": 10.1,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 06:00:00",
+      "air_temperature_celsius": 10.25,
+      "global_horizontal_irradiance": 0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 06:30:00",
+      "air_temperature_celsius": 10.55,
+      "global_horizontal_irradiance": 82.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 07:00:00",
+      "air_temperature_celsius": 11.66,
+      "global_horizontal_irradiance": 210.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 07:30:00",
+      "air_temperature_celsius": 11.97,
+      "global_horizontal_irradiance": 288.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 08:00:00",
+      "air_temperature_celsius": 12.95,
+      "global_horizontal_irradiance": 359.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 08:30:00",
+      "air_temperature_celsius": 13.42,
+      "global_horizontal_irradiance": 406.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 09:00:00",
+      "air_temperature_celsius": 14.58,
+      "global_horizontal_irradiance": 572.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 09:30:00",
+      "air_temperature_celsius": 14.68,
+      "global_horizontal_irradiance": 591.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 10:00:00",
+      "air_temperature_celsius": 14.99,
+      "global_horizontal_irradiance": 649.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 10:30:00",
+      "air_temperature_celsius": 16.38,
+      "global_horizontal_irradiance": 735.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 11:00:00",
+      "air_temperature_celsius": 16.83,
+      "global_horizontal_irradiance": 762.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 11:30:00",
+      "air_temperature_celsius": 16.44,
+      "global_horizontal_irradiance": 757.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 12:00:00",
+      "air_temperature_celsius": 17.71,
+      "global_horizontal_irradiance": 833.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 12:30:00",
+      "air_temperature_celsius": 17.05,
+      "global_horizontal_irradiance": 820.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 13:00:00",
+      "air_temperature_celsius": 18.28,
+      "global_horizontal_irradiance": 810.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 13:30:00",
+      "air_temperature_celsius": 18.12,
+      "global_horizontal_irradiance": 821.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 14:00:00",
+      "air_temperature_celsius": 17.19,
+      "global_horizontal_irradiance": 797.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 14:30:00",
+      "air_temperature_celsius": 17.93,
+      "global_horizontal_irradiance": 717.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 15:00:00",
+      "air_temperature_celsius": 18.34,
+      "global_horizontal_irradiance": 654.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 15:30:00",
+      "air_temperature_celsius": 17.35,
+      "global_horizontal_irradiance": 607.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 16:00:00",
+      "air_temperature_celsius": 17.16,
+      "global_horizontal_irradiance": 543.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 16:30:00",
+      "air_temperature_celsius": 16.74,
+      "global_horizontal_irradiance": 490.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 17:00:00",
+      "air_temperature_celsius": 16.35,
+      "global_horizontal_irradiance": 390.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 17:30:00",
+      "air_temperature_celsius": 16.1,
+      "global_horizontal_irradiance": 286.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 18:00:00",
+      "air_temperature_celsius": 15.44,
+      "global_horizontal_irradiance": 201.45,
+      "precipitation_rate": 3.46
+    },
+    {
+      "period_start_utc": "2025-09-01 18:30:00",
+      "air_temperature_celsius": 14.85,
+      "global_horizontal_irradiance": 57.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 19:00:00",
+      "air_temperature_celsius": 14.29,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 19:30:00",
+      "air_temperature_celsius": 14.35,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 2.29
+    },
+    {
+      "period_start_utc": "2025-09-01 20:00:00",
+      "air_temperature_celsius": 13.19,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 2.35
+    },
+    {
+      "period_start_utc": "2025-09-01 20:30:00",
+      "air_temperature_celsius": 13.55,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 21:00:00",
+      "air_temperature_celsius": 12.09,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 21:30:00",
+      "air_temperature_celsius": 10.48,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 22:00:00",
+      "air_temperature_celsius": 11.01,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 22:30:00",
+      "air_temperature_celsius": 10.4,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 23:00:00",
+      "air_temperature_celsius": 8.96,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-01 23:30:00",
+      "air_temperature_celsius": 8.75,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 00:00:00",
+      "air_temperature_celsius": 8.8,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 00:30:00",
+      "air_temperature_celsius": 8.38,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 01:00:00",
+      "air_temperature_celsius": 8.66,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 01:30:00",
+      "air_temperature_celsius": 7.48,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 02:00:00",
+      "air_temperature_celsius": 8.41,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 02:30:00",
+      "air_temperature_celsius": 8.41,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 03:00:00",
+      "air_temperature_celsius": 8.27,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 03:30:00",
+      "air_temperature_celsius": 8.8,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 04:00:00",
+      "air_temperature_celsius": 8.13,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 04:30:00",
+      "air_temperature_celsius": 9.23,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 05:00:00",
+      "air_temperature_celsius": 8.9,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 05:30:00",
+      "air_temperature_celsius": 9.16,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 06:00:00",
+      "air_temperature_celsius": 10.34,
+      "global_horizontal_irradiance": 0,
+      "precipitation_rate": 4.46
+    },
+    {
+      "period_start_utc": "2025-09-02 06:30:00",
+      "air_temperature_celsius": 11.36,
+      "global_horizontal_irradiance": 97.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 07:00:00",
+      "air_temperature_celsius": 11.28,
+      "global_horizontal_irradiance": 177.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 07:30:00",
+      "air_temperature_celsius": 13.42,
+      "global_horizontal_irradiance": 298.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 08:00:00",
+      "air_temperature_celsius": 12.94,
+      "global_horizontal_irradiance": 369.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 08:30:00",
+      "air_temperature_celsius": 13.89,
+      "global_horizontal_irradiance": 484.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 09:00:00",
+      "air_temperature_celsius": 14.02,
+      "global_horizontal_irradiance": 568.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 09:30:00",
+      "air_temperature_celsius": 14.24,
+      "global_horizontal_irradiance": 641.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 10:00:00",
+      "air_temperature_celsius": 15.67,
+      "global_horizontal_irradiance": 650.39,
+      "precipitation_rate": 4.61
+    },
+    {
+      "period_start_utc": "2025-09-02 10:30:00",
+      "air_temperature_celsius": 16.52,
+      "global_horizontal_irradiance": 672.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 11:00:00",
+      "air_temperature_celsius": 17.14,
+      "global_horizontal_irradiance": 787.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 11:30:00",
+      "air_temperature_celsius": 16.18,
+      "global_horizontal_irradiance": 795.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 12:00:00",
+      "air_temperature_celsius": 16.83,
+      "global_horizontal_irradiance": 760.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 12:30:00",
+      "air_temperature_celsius": 17.18,
+      "global_horizontal_irradiance": 759.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 13:00:00",
+      "air_temperature_celsius": 18.12,
+      "global_horizontal_irradiance": 832.17,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 13:30:00",
+      "air_temperature_celsius": 17.2,
+      "global_horizontal_irradiance": 822.75,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 14:00:00",
+      "air_temperature_celsius": 18.08,
+      "global_horizontal_irradiance": 718.01,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 14:30:00",
+      "air_temperature_celsius": 17.65,
+      "global_horizontal_irradiance": 757.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 15:00:00",
+      "air_temperature_celsius": 17.91,
+      "global_horizontal_irradiance": 700.39,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 15:30:00",
+      "air_temperature_celsius": 18.07,
+      "global_horizontal_irradiance": 629.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 16:00:00",
+      "air_temperature_celsius": 16.77,
+      "global_horizontal_irradiance": 571.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 16:30:00",
+      "air_temperature_celsius": 17.6,
+      "global_horizontal_irradiance": 475.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 17:00:00",
+      "air_temperature_celsius": 16.25,
+      "global_horizontal_irradiance": 418.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 17:30:00",
+      "air_temperature_celsius": 16.05,
+      "global_horizontal_irradiance": 322.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 18:00:00",
+      "air_temperature_celsius": 16.03,
+      "global_horizontal_irradiance": 147.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 18:30:00",
+      "air_temperature_celsius": 14.4,
+      "global_horizontal_irradiance": 93.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 19:00:00",
+      "air_temperature_celsius": 13.26,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 19:30:00",
+      "air_temperature_celsius": 13.85,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.47
+    },
+    {
+      "period_start_utc": "2025-09-02 20:00:00",
+      "air_temperature_celsius": 12.53,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 20:30:00",
+      "air_temperature_celsius": 12.17,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 21:00:00",
+      "air_temperature_celsius": 11.68,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 21:30:00",
+      "air_temperature_celsius": 10.84,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 22:00:00",
+      "air_temperature_celsius": 10.65,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 22:30:00",
+      "air_temperature_celsius": 10.28,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 23:00:00",
+      "air_temperature_celsius": 9.36,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-02 23:30:00",
+      "air_temperature_celsius": 9.4,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 00:00:00",
+      "air_temperature_celsius": 9.53,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 00:30:00",
+      "air_temperature_celsius": 7.87,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 01:00:00",
+      "air_temperature_celsius": 8.03,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 01:30:00",
+      "air_temperature_celsius": 7.83,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 02:00:00",
+      "air_temperature_celsius": 8.3,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 02:30:00",
+      "air_temperature_celsius": 7.29,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 03:00:00",
+      "air_temperature_celsius": 8.47,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 03:30:00",
+      "air_temperature_celsius": 8.3,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 04:00:00",
+      "air_temperature_celsius": 9.01,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 04:30:00",
+      "air_temperature_celsius": 9.56,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 4.9
+    },
+    {
+      "period_start_utc": "2025-09-03 05:00:00",
+      "air_temperature_celsius": 9.91,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 05:30:00",
+      "air_temperature_celsius": 10.64,
+      "global_horizontal_irradiance": 0.0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 06:00:00",
+      "air_temperature_celsius": 10.82,
+      "global_horizontal_irradiance": 0,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 06:30:00",
+      "air_temperature_celsius": 10.81,
+      "global_horizontal_irradiance": 62.43,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 07:00:00",
+      "air_temperature_celsius": 12.04,
+      "global_horizontal_irradiance": 173.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 07:30:00",
+      "air_temperature_celsius": 12.62,
+      "global_horizontal_irradiance": 298.68,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 08:00:00",
+      "air_temperature_celsius": 13.06,
+      "global_horizontal_irradiance": 377.78,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 08:30:00",
+      "air_temperature_celsius": 14.18,
+      "global_horizontal_irradiance": 404.45,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 09:00:00",
+      "air_temperature_celsius": 14.76,
+      "global_horizontal_irradiance": 540.5,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 09:30:00",
+      "air_temperature_celsius": 16.21,
+      "global_horizontal_irradiance": 607.81,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 10:00:00",
+      "air_temperature_celsius": 16.44,
+      "global_horizontal_irradiance": 669.39,
+      "precipitation_rate": 1.96
+    },
+    {
+      "period_start_utc": "2025-09-03 10:30:00",
+      "air_temperature_celsius": 16.05,
+      "global_horizontal_irradiance": 693.36,
+      "precipitation_rate": 0.0
+    },
+    {
+      "period_start_utc": "2025-09-03 11:00:00",
+      "air_temperature_celsius": 16.12,
+      "global_horizontal_irradiance": 771.01,
+      "precipitation_rate": 0.0
+    }
+  ]
+}
