@@ -473,6 +473,11 @@ Then I **merged** these with the existing 24h features on `farm_id` + `growth_ra
 | **Step 6** — RF on **enriched features**         |  16.3570 |            -3.4218 | 11.8789 |           -2.4622 | 0.5255 |          +0.1357 |
 | **Step 7** — RF on enriched features (**final**) |  16.1086 |            -3.6702 | 11.6918 |           -2.6493 | 0.5398 |          +0.1500 |
 
+<p align="center">
+  <img src="../images/DT_plot1.png" width="30%" />
+  <img src="../images/RF_plot1.png" width="30%" />
+  <img src="../images/FeatureEng_plot1.png" width="30%" />
+</p>
 ## 7) What the Model Learned (High Level)
 
 - **Sunlight exposure** (24h duration + multi-day maxima/averages) and **multi-week thermal context** (14-day averages & GDD) are dominant.
