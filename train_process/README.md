@@ -29,7 +29,6 @@ No unreasonable values detected.
 - **Anomalies:** ~1.46% of values > 120, considered extreme outliers but kept (not truncated).
 - **Distribution:** Right-skewed, with long tail and outliers above 120.
 
-<details>
 <summary>Visualization</summary>
 <p align="center">
   <img src="../images/Code_Generated_Image.png" alt="outliers" width="480">
@@ -37,8 +36,6 @@ No unreasonable values detected.
 
 - **Boxplot:** Outliers clearly visible above 120.
 - **Histogram:** Right-skewed distribution with long tail.
-
-</details>
 
 ### Missing Records
 
@@ -55,7 +52,6 @@ Interpolation rules:
 - Larger gaps kept as missing, flagged with warnings.
 - Ensures consistent **48 records per day** for fair aggregation.
 
-<details>
 <summary>Core Code (Interpolation of Weather Data)</summary>
 
 ```python
@@ -65,8 +61,6 @@ merged_df[numeric_cols] = merged_df[numeric_cols].interpolate(method='linear')
 # Revert interpolation for large gaps (>3 consecutive missing)
 merged_df.loc[group_indices, numeric_cols] = np.nan
 ```
-
-</details>
 
 ---
 
@@ -80,7 +74,6 @@ For each growth rate record, we extract weather statistics from the **preceding 
 - **Agronomic Indicator:** Growing Degree Days (GDD, base temperature = 5°C).
 - **Seasonality:** Day of year transformed with cosine function (`date_cos`).
 
-<details>
 <summary>Example Features</summary>
 
 - `avg_air_temperature_celsius_24h`
@@ -88,8 +81,6 @@ For each growth rate record, we extract weather statistics from the **preceding 
 - `total_sunshine_duration_24h`
 - `growing_degree_days_24h`
 - `date_cos` (captures seasonality for Southern Hemisphere)
-
-</details>
 
 ---
 
@@ -111,10 +102,10 @@ For each growth rate record, we extract weather statistics from the **preceding 
 
 ```json
 {
-    'max_depth': [5, 10, 15, 20, None],
-    'min_samples_split': [2, 5, 10, 20],
-    'min_samples_leaf': [1, 2, 4, 8],
-    'ccp_alpha': [0.0, 0.001, 0.01, 0.1]
+    "max_depth": [5, 10, 15, 20, None],
+    "min_samples_split": [2, 5, 10, 20],
+    "min_samples_leaf": [1, 2, 4, 8],
+    "ccp_alpha": [0.0, 0.001, 0.01, 0.1]
   }
 ```
 
@@ -165,7 +156,6 @@ Top predictors:
 2. **Seasonality (date_cos)** – 0.18
 3. **Median Air Temperature (24h)** – 0.04
 
-<details>
 <summary>Visualizations</summary>
 <p align="center">
   <img src="../images/DT_plot1.png" alt="Actual vs Predicted Scatter Plot" width="480">
@@ -178,8 +168,6 @@ Top predictors:
 </p>
 
 - **Feature:** Importance Bar Chart.
-
-</details>
 
 ---
 
